@@ -1,0 +1,40 @@
+h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+}
+
+li {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+aside {
+  background-color: aliceblue;
+  border: 5px solid;
+}
+
+a:link {
+  color: aqua;
+  text-decoration: none;
+}
+
+a:hover {
+  color: tomato;
+  font-weight: bold;
+}
+
+a:active {
+  color: chartreuse;
+}
